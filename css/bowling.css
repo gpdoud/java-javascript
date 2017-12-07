@@ -1,0 +1,8 @@
+body {
+	font: normal normal normal 12pt/14.4pt Tahoma, Arial, sans-serif;
+	border: 0; padding: 10px; margin: 0;
+}
+td {
+	text-align: center;
+	border: 1px solid silver;
+}
